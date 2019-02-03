@@ -1,1 +1,1 @@
-"Alternative JVM Languages" 
+https://github.com/groovy/groovy-eclipse/wiki/Groovy-Eclipse-Maven-plugin

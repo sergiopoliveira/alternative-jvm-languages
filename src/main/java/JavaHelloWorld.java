@@ -1,4 +1,6 @@
-package PACKAGE_NAME;
-
 public class JavaHelloWorld {
+
+    public String getHello(){
+        return "Hello World";
+    }
 }
